@@ -25,13 +25,13 @@ header{
     list-style: none;
 }
 
-.nav_item a{
+.nav-item a{
     color: #1d1d1dad;
     text-decoration: none;
     font-weight: 600;
 }
 
-.nav_item.active a{
+.nav-item.active a{
     color: var(--color-neutral-1);
     border-bottom: 3px solid var(--primary-color-3);
 }
